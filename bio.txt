@@ -1,1 +1,4 @@
 "Hello, Neha here! I am learning Git and GitHub!" 
+Contact:
+Email: Example@Example.com
+Phone: 111-222-3334
